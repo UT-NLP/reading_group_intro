@@ -1,2 +1,2 @@
-# reading_group_intro
+# Reading Group (Introduction to NLP)
 Reading, reviewing and practicing essential NLP materials.
